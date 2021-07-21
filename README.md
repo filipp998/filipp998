@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filipp998
 - 👀 I’m interested in applying statistical techniques to financial data
-- 🌱 I’m currently learning Machine Learning and Extreme Value Theory
+- 🌱 I’m currently learning Machine Learning, Time Series and Extreme Value Theory
 - 📫 How to reach me: philippovphilipp@gmail.com
 
 <!---
